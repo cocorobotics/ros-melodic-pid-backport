@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>pid</name>
+  <name>pid_melodic_backport</name>
   <version>0.0.28</version>
   <description>Launch a PID control node.</description>
 

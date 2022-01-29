@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(pid)
+project(pid_melodic_backport)
 
 add_compile_options(-std=c++11)
 
